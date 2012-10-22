@@ -21,5 +21,6 @@
     },
     "main": "knockout.js",
     "version": "2.1.0",
-    "readme": "An up-to-date jam package for the KnockoutJS"
+    "readme": "An up-to-date jam package for the KnockoutJS",
+    "categories": ["Frameworks", "DOM"],
 }
