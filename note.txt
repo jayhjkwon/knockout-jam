@@ -1,0 +1,3 @@
+- Command for publishing to the Jam repository is 
+   jam publish .\package -f
+   in root folder
